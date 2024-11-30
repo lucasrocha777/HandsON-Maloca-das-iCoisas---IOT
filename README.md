@@ -7,4 +7,4 @@ Alunos: Lucas Gabriel Rocha, Wesley Silva Araujo
 
 - [X] Repositório Git
 - [x] Esquema de Conexão
-- [ ] Big Picture
+- [X] Big Picture
