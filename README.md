@@ -1,5 +1,5 @@
 # HandsON-Maloca-das-iCoisas-IOT
-Alunos: Lucas Gabriel Rocha, Wesley Silva Araujo
+Alunos: Lucas Gabriel Rocha, Wesley Silva Araújo 
 
 ## 1ª Semana –MOMENTO MAKER – MIA007 AULA 02
 
