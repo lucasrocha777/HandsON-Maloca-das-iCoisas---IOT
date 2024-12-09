@@ -8,7 +8,7 @@ Alunos: Lucas Gabriel Rocha, Wesley Silva Araújo
 - [X] Repositório Git
 - [x] Esquema de Conexão
 - [X] Big Picture
-- [ ] 
+
 # HandsON-Maloca-das-iCoisas-IOT
 Alunos: Lucas Gabriel Rocha, Wesley Silva Araújo 
 
